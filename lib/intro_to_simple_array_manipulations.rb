@@ -34,3 +34,5 @@ end
     array.uniq 
   end
   
+  def using_flatten
+    
